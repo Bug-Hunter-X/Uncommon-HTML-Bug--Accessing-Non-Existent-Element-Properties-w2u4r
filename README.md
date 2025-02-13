@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug and its solution. The bug arises from attempting to access a property that does not exist on an HTML element. This can lead to silent errors or unexpected behavior in some browsers. The solution involves robust error handling or property checks before access.
